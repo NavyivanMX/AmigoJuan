@@ -476,7 +476,7 @@ Partial Class frmPrincipal
         Me.LBLVER.Name = "LBLVER"
         Me.LBLVER.Size = New System.Drawing.Size(155, 33)
         Me.LBLVER.TabIndex = 384
-        Me.LBLVER.Text = "Navy 1.16"
+        Me.LBLVER.Text = "Navy 1.17"
         '
         'PBCNC
         '

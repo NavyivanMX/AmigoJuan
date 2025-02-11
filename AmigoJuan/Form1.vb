@@ -38,7 +38,7 @@
     Public DT As DataTable
     Private Sub frmPrincipal_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         Ciudad = "Los Mochis, Sin."
-        VERSION = "BETA 1.16"
+        VERSION = "BETA 1.17"
         VCFD = "3.3"
         FacturaLibre = True
         Resguardo = False
